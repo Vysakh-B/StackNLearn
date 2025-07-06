@@ -29,7 +29,7 @@ function App() {
         <div id="contact">
           <Contact />
         </div>
-
+{/* <div className="top"><a href="#home">^</a></div> */}
     </div>
   );
 }
