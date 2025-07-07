@@ -6,10 +6,12 @@ import About from './components/About/About.jsx';
 import Stacks from './components/Stacks/Stacks.jsx';
 import Works from './components/Works/Works.jsx';
 import Navbar from './components/Navbar/Navbar.jsx';
+import CursorFollower from './components/CursorFollower/CursorFollower.jsx';
 
 function App() {
   return (
     <div className="app-container">
+      <CursorFollower />
       <Navbar />
       <div id="home">
           <Home />
