@@ -55,3 +55,8 @@
   color: #444;
   line-height: 1.5;
 }
+@media (max-width:350px) {
+ .stacks-section{
+    /* padding: 20px; */
+
+ } }

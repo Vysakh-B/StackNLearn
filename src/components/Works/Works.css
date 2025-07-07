@@ -324,7 +324,12 @@ font-family: 'Archivo Narrow';
           font-size: 12px;
         }
       }  
-
+@media (max-width:355px) {
+.heading1{
+    
+    font-size: 36px;
+    }
+}
 
 
 

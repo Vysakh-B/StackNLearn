@@ -20,7 +20,7 @@ const Home = () => {
             Welcome to <span>StackNLearn</span>
           </h1>
           <p>
-            Empowering learners and developers with the right stack of technologies.
+            Learn the Stack, Deploy the Future.
           </p>
           <a href="#stacks" className="cta-button">
             Explore Stacks
