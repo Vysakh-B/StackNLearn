@@ -37,11 +37,11 @@ body {
   background-color: #6cecd9;
   position: fixed;
   cursor: pointer;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgb(255, 255, 255);
 }
 .top a{
   text-decoration: none;
-  color: white;
+  color: rgb(18, 17, 17);
   font-weight: bolder;
   font-size: 30px;
   text-align: center;
